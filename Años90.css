@@ -3,6 +3,7 @@ h3{
     text-align: center;
     text-decoration: underline;
     font-size: 25px;
+    font-style:oblique;
 }
 
 p{
@@ -32,6 +33,7 @@ h2
     background-color: black;
     text-align: center;
     text-decoration: underline;
+    font-style: oblique;
 }
 
 #titulo
@@ -39,6 +41,7 @@ h2
     font-size: 25px;
     color: darkorange;
     background-color: black;
+    font-style: oblique;
 }
 
 
