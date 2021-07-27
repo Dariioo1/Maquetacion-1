@@ -6,6 +6,10 @@ h3{
     font-style:oblique;
 }
 
+.enlace
+{
+    padding: 30px;
+}
 p{
     text-align: left;
 }
